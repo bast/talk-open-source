@@ -8,6 +8,12 @@ Code examples: [OSI](http://opensource.org)-approved [MIT license](http://openso
 
 ---
 
+template: inverse
+
+# Benefits
+
+---
+
 layout: false
 
 ## Minimize distribution effort
@@ -29,12 +35,13 @@ layout: false
 
 - Peer-reviewed software.
 - Full reproducibility.
+- http://sciencecodemanifesto.org
 
 ---
 
 ## Allow external contributions
 
-- Fork/pull-request mechanism makes it possible for everybody to submit patches.
+- Fork/merge-request mechanism makes it possible for everybody to submit patches.
 - These can be reviewed, discussed, and accepted by the core development team.
 
 ---
@@ -68,18 +75,18 @@ layout: false
 
 ---
 
+## Continuous integration and code coverage analysis
+
+- https://travis-ci.org
+- https://coveralls.io
+
+---
+
 ## More funding opportunities
 
 - We are funded by the public so we should give back to the public.
 - Some funding opportunities are difficult or impossible to get if the code is
   not open source.
-
----
-
-## Continuous integration and code coverage analysis
-
-- https://travis-ci.org
-- https://coveralls.io/
 
 ---
 
@@ -133,7 +140,7 @@ template: inverse
 ## I will lose control over my code - I want to decide what functionality goes in!
 
 - You keep full control about what is incorporated through the
-  fork/pull-request mechanism.
+  fork/merge-request mechanism.
 - Experience shows that people nearly always look to the official versions of
   codes.
 - Even if somebody creates a version you do not agree with, it will have
